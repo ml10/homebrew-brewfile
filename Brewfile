@@ -10,6 +10,7 @@ cask "xquartz"
 # Command line apps to install via Homebrew
 #brew "ack"
 brew "ansible"
+brew "apache-spark"
 brew "asciinema"
 brew "awk"
 brew "aws-shell"
