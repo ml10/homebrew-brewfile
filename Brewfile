@@ -186,17 +186,6 @@ cask "transmit"
 cask "vagrant"
 cask "virtualbox"
 cask "viscosity"
-cask "visual-studio-code"
 cask "visualvm"
 cask "vlc"
-cask "vmware-fusion"
-cask "zoomus"
-mas "1Password", id: 443987910
-mas "Disk Expert", id: 488920185
-mas "Microsoft Remote Desktop", id: 715768417
-mas "MindNode", id: 992076693
-mas "OmniGraffle", id: 1142578753
-mas "Power JSON Editor", id: 499768540
-mas "ScreenFlow", id: 1107828211
-mas "Skitch", id: 425955336
-mas "Spark", id: 1176895641
+cask "vscodium"
